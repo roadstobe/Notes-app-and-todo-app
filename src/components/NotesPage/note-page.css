@@ -1,0 +1,9 @@
+.notes-page{
+    max-width: 960px;
+    width: 100%;
+}
+
+.notes-header{
+    text-align: center;
+    color: gray;
+}

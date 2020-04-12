@@ -1,0 +1,19 @@
+.search-note{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.search-note input{
+    width: 300px;
+    margin-bottom: 20px;
+    border: 1px solid deeppink;
+    border-radius: 23px;
+    text-align: center;
+}
+
+.search-note input:focus{
+    border-radius: 23px;
+    border:1px dashed deeppink ;
+    outline:none;
+}
